@@ -2,40 +2,13 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
-<p align="center">
-  <a href="https://telegram.dog/MT_MusicPlayer_BoT">
-     <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot Demo-red?style=for-the-badge&logo=github">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://telegra.ph/file/81ebd8768d935ae8689bb.jpg">
-     <img height="150px" src="https://telegra.ph/file/81ebd8768d935ae8689bb.jpg">
-  </a>
-</p>
 
-## Give your 💙
-
-Before clicking on deploy to heroku just click on fork and star just below
-
-<p align="center">
-  <a href="https://github.com/MRK-YT/MT-GroupMusic-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-GroupMusic-Bot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/MRK-YT/MT-GroupMusic-Bot">
-    <img src="https://img.shields.io/github/stars/MoTechYT/MT-GroupMusic-Bot?style=social">
-  </a>
-</p>
 
 ##  
 <details><summary>How to deploy</summary>
 <p>
 <br>
-Click the below button to watch the video tutorial on deploying
-
-<a href="https://youtu.be/kC6feIwmgY0"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/kC6feIwmgY0"><img src="https://img.shields.io/youtube/views/kC6feIwmgY0?style=social">
 
 
 #### Deploy To Heroku 
